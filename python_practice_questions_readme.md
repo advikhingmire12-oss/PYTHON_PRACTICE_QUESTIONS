@@ -1,14 +1,10 @@
-<div align="center">
+
 
 # Python Practice Questions
 
 **Daily Problem-Solving Log & Core Python Exercises**
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Problem%20Solving-10B981?style=for-the-badge)
-![Editor](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
 
 ## About
 
